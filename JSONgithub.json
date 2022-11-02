@@ -1,0 +1,24 @@
+{
+    "llista_empleats":[
+        {
+            "empleat":[
+                {
+                    "nom":"Alex",
+                    "cognom":"Campos",
+                    "direccio":"Passeig de Gracia,39",
+                    "telefon":693302802,
+                    "ciutat":"Barcelona",
+                    "email":"AlexCampos2@gmail.com" 
+                },
+                {
+                    "nom":"Martina",
+                    "cognom":"Ruiz",
+                    "direccio":"Passeig de Gracia,204",
+                    "telefon":682318825,
+                    "ciutat":"Barcelona",
+                    "email":"MartinaRuiz@gmail.com" 
+                }
+            ]
+        }
+    ]
+}
