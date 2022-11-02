@@ -4,5 +4,15 @@
         <cognom>Campos</cognom>
         <direccio>Passeig de Gracia,39</direccio>
         <telefon>693 30 28 02</telefon>
+        <ciutat>Barcelona</ciutat>
+        <email>AlexCampos2@gmail.com</email>
+    </empleat>
+    <empleat>
+        <nom>Martina</nom>
+        <cognom>Ruiz</cognom>
+        <direccio>Passeig de Gracia,204</direccio>
+        <telefon>682 31 88 25</telefon>
+        <ciutat>Barcelona</ciutat>
+        <email>MartinaRuiz</email>
     </empleat>
 </llista_empleats>
